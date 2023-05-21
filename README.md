@@ -1,10 +1,11 @@
 # signate_2304_carbon_blue
 
-sbmt_rev1_7.jpynb
+## sbmt_rev1_7.jpynb
 下記の要領で学習予測を実施するコードとなっています
 クラスタリングはルール違反でしたので、修正したコードも一緒に添付しています
 revised/sbmt_rev_2_1.ipynb
 
+## 予測値取得方法
 df_table_1.csvとtrainデータ、tesｔデータを同じディレクトリで上記コードのすべてのセルを実行すると、
 合計65個の学習モデルとtestデータに対する予測値をcsvファイルとして出力します
 
